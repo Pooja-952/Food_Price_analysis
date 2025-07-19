@@ -1,0 +1,799 @@
+Price Type,Commodity,Price
+Average Price,Rice,42.74
+Average Price,Wheat,31.26
+Average Price,Atta (Wheat),36.62
+Average Price,Gram Dal,86.19
+Average Price,Tur/Arhar Dal,120.38
+Average Price,Urad Dal,115.33
+Average Price,Moong Dal,110.77
+Average Price,Masoor Dal,88.34
+Average Price,Sugar,45.95
+Average Price,Milk @,59.22
+Average Price,Groundnut Oil (Packed),188.43
+Average Price,Mustard Oil (Packed),178.78
+Average Price,Vanaspati (Packed),156.48
+Average Price,Soya Oil (Packed),146.67
+Average Price,Sunflower Oil (Packed),160.33
+Average Price,Palm Oil (Packed),129.94
+Average Price,Gur,55.99
+Average Price,Tea Loose,271.87
+Average Price,Salt Pack (Iodised),21.34
+Average Price,Potato,25.85
+Average Price,Onion,28.25
+Average Price,Tomato,41.4
+Maximum Price,Rice,63.0
+Maximum Price,Wheat,55.0
+Maximum Price,Atta (Wheat),71.0
+Maximum Price,Gram Dal,140.0
+Maximum Price,Tur/Arhar Dal,183.0
+Maximum Price,Urad Dal,170.0
+Maximum Price,Moong Dal,148.0
+Maximum Price,Masoor Dal,130.0
+Maximum Price,Sugar,60.0
+Maximum Price,Milk @,82.0
+Maximum Price,Groundnut Oil (Packed),279.0
+Maximum Price,Mustard Oil (Packed),242.0
+Maximum Price,Vanaspati (Packed),231.0
+Maximum Price,Soya Oil (Packed),198.0
+Maximum Price,Sunflower Oil (Packed),253.0
+Maximum Price,Palm Oil (Packed),177.0
+Maximum Price,Gur,128.0
+Maximum Price,Tea Loose,600.0
+Maximum Price,Salt Pack (Iodised),32.0
+Maximum Price,Potato,60.0
+Maximum Price,Onion,60.0
+Maximum Price,Tomato,120.0
+Minimum Price,Rice,28.0
+Minimum Price,Wheat,23.0
+Minimum Price,Atta (Wheat),28.0
+Minimum Price,Gram Dal,68.0
+Minimum Price,Tur/Arhar Dal,90.0
+Minimum Price,Urad Dal,83.0
+Minimum Price,Moong Dal,81.0
+Minimum Price,Masoor Dal,71.0
+Minimum Price,Sugar,38.0
+Minimum Price,Milk @,40.0
+Minimum Price,Groundnut Oil (Packed),143.0
+Minimum Price,Mustard Oil (Packed),136.0
+Minimum Price,Vanaspati (Packed),103.0
+Minimum Price,Soya Oil (Packed),113.0
+Minimum Price,Sunflower Oil (Packed),123.0
+Minimum Price,Palm Oil (Packed),90.0
+Minimum Price,Gur,40.0
+Minimum Price,Tea Loose,150.0
+Minimum Price,Salt Pack (Iodised),10.0
+Minimum Price,Potato,11.0
+Minimum Price,Onion,13.0
+Minimum Price,Tomato,15.0
+Modal Price,Rice,40.0
+Modal Price,Wheat,28.0
+Modal Price,Atta (Wheat),35.0
+Modal Price,Gram Dal,80.0
+Modal Price,Tur/Arhar Dal,120.0
+Modal Price,Urad Dal,120.0
+Modal Price,Moong Dal,110.0
+Modal Price,Masoor Dal,90.0
+Modal Price,Sugar,45.0
+Modal Price,Milk @,60.0
+Modal Price,Groundnut Oil (Packed),185.0
+Modal Price,Mustard Oil (Packed),176.0
+Modal Price,Vanaspati (Packed),149.5
+Modal Price,Soya Oil (Packed),154.0
+Modal Price,Sunflower Oil (Packed),159.0
+Modal Price,Palm Oil (Packed),131.5
+Modal Price,Gur,50.0
+Modal Price,Tea Loose,240.0
+Modal Price,Salt Pack (Iodised),20.0
+Modal Price,Potato,20.0
+Modal Price,Onion,25.0
+Modal Price,Tomato,40.0
+Andaman and Nicobar,Rice,54.0
+Andaman and Nicobar,Atta (Wheat),63.67
+Andaman and Nicobar,Gram Dal,104.67
+Andaman and Nicobar,Tur/Arhar Dal,134.67
+Andaman and Nicobar,Urad Dal,137.33
+Andaman and Nicobar,Moong Dal,124.33
+Andaman and Nicobar,Masoor Dal,98.67
+Andaman and Nicobar,Sugar,55.67
+Andaman and Nicobar,Milk @,73.0
+Andaman and Nicobar,Groundnut Oil (Packed),244.0
+Andaman and Nicobar,Mustard Oil (Packed),190.5
+Andaman and Nicobar,Vanaspati (Packed),200.0
+Andaman and Nicobar,Sunflower Oil (Packed),166.67
+Andaman and Nicobar,Palm Oil (Packed),149.67
+Andaman and Nicobar,Gur,77.0
+Andaman and Nicobar,Tea Loose,341.0
+Andaman and Nicobar,Salt Pack (Iodised),20.33
+Andaman and Nicobar,Potato,53.33
+Andaman and Nicobar,Onion,56.67
+Andaman and Nicobar,Tomato,86.67
+Andhra Pradesh,Rice,48.88
+Andhra Pradesh,Wheat,44.22
+Andhra Pradesh,Atta (Wheat),47.12
+Andhra Pradesh,Gram Dal,82.29
+Andhra Pradesh,Tur/Arhar Dal,107.5
+Andhra Pradesh,Urad Dal,108.13
+Andhra Pradesh,Moong Dal,108.94
+Andhra Pradesh,Masoor Dal,87.88
+Andhra Pradesh,Sugar,44.5
+Andhra Pradesh,Milk @,63.11
+Andhra Pradesh,Groundnut Oil (Packed),169.38
+Andhra Pradesh,Mustard Oil (Packed),188.21
+Andhra Pradesh,Vanaspati (Packed),146.0
+Andhra Pradesh,Soya Oil (Packed),153.0
+Andhra Pradesh,Sunflower Oil (Packed),159.69
+Andhra Pradesh,Palm Oil (Packed),125.27
+Andhra Pradesh,Gur,56.06
+Andhra Pradesh,Tea Loose,290.24
+Andhra Pradesh,Salt Pack (Iodised),19.47
+Andhra Pradesh,Potato,29.94
+Andhra Pradesh,Onion,25.71
+Andhra Pradesh,Tomato,28.44
+Arunachal pradesh,Rice,42.5
+Arunachal pradesh,Wheat,45.0
+Arunachal pradesh,Atta (Wheat),45.25
+Arunachal pradesh,Gram Dal,96.0
+Arunachal pradesh,Tur/Arhar Dal,136.75
+Arunachal pradesh,Urad Dal,130.75
+Arunachal pradesh,Moong Dal,119.0
+Arunachal pradesh,Masoor Dal,95.25
+Arunachal pradesh,Sugar,53.75
+Arunachal pradesh,Milk @,75.0
+Arunachal pradesh,Groundnut Oil (Packed),176.0
+Arunachal pradesh,Mustard Oil (Packed),198.25
+Arunachal pradesh,Vanaspati (Packed),153.67
+Arunachal pradesh,Soya Oil (Packed),162.25
+Arunachal pradesh,Sunflower Oil (Packed),170.25
+Arunachal pradesh,Gur,86.0
+Arunachal pradesh,Tea Loose,354.25
+Arunachal pradesh,Salt Pack (Iodised),17.75
+Arunachal pradesh,Potato,30.5
+Arunachal pradesh,Onion,39.5
+Arunachal pradesh,Tomato,54.0
+Assam,Rice,39.43
+Assam,Wheat,35.8
+Assam,Atta (Wheat),39.5
+Assam,Gram Dal,86.82
+Assam,Tur/Arhar Dal,121.57
+Assam,Urad Dal,102.65
+Assam,Moong Dal,109.46
+Assam,Masoor Dal,88.29
+Assam,Sugar,48.11
+Assam,Milk @,71.67
+Assam,Groundnut Oil (Packed),186.17
+Assam,Mustard Oil (Packed),183.93
+Assam,Vanaspati (Packed),160.05
+Assam,Soya Oil (Packed),151.04
+Assam,Sunflower Oil (Packed),171.43
+Assam,Palm Oil (Packed),141.11
+Assam,Gur,61.54
+Assam,Tea Loose,251.54
+Assam,Salt Pack (Iodised),11.71
+Assam,Potato,21.04
+Assam,Onion,30.14
+Assam,Tomato,42.59
+Bihar,Rice,37.69
+Bihar,Wheat,28.75
+Bihar,Atta (Wheat),34.64
+Bihar,Gram Dal,81.47
+Bihar,Tur/Arhar Dal,117.64
+Bihar,Urad Dal,113.06
+Bihar,Moong Dal,108.86
+Bihar,Masoor Dal,79.56
+Bihar,Sugar,45.8
+Bihar,Milk @,57.14
+Bihar,Groundnut Oil (Packed),197.83
+Bihar,Mustard Oil (Packed),176.74
+Bihar,Vanaspati (Packed),155.31
+Bihar,Soya Oil (Packed),154.7
+Bihar,Sunflower Oil (Packed),168.96
+Bihar,Palm Oil (Packed),128.55
+Bihar,Gur,48.74
+Bihar,Tea Loose,274.66
+Bihar,Salt Pack (Iodised),24.03
+Bihar,Potato,19.89
+Bihar,Onion,24.03
+Bihar,Tomato,40.29
+Chhattisgarh,Rice,38.78
+Chhattisgarh,Wheat,33.44
+Chhattisgarh,Atta (Wheat),38.67
+Chhattisgarh,Gram Dal,89.67
+Chhattisgarh,Tur/Arhar Dal,122.67
+Chhattisgarh,Urad Dal,108.89
+Chhattisgarh,Moong Dal,108.89
+Chhattisgarh,Masoor Dal,88.89
+Chhattisgarh,Sugar,44.33
+Chhattisgarh,Milk @,57.56
+Chhattisgarh,Groundnut Oil (Packed),196.13
+Chhattisgarh,Mustard Oil (Packed),170.56
+Chhattisgarh,Vanaspati (Packed),151.67
+Chhattisgarh,Soya Oil (Packed),149.56
+Chhattisgarh,Sunflower Oil (Packed),157.0
+Chhattisgarh,Palm Oil (Packed),139.29
+Chhattisgarh,Gur,51.89
+Chhattisgarh,Tea Loose,228.56
+Chhattisgarh,Salt Pack (Iodised),21.0
+Chhattisgarh,Potato,28.0
+Chhattisgarh,Onion,29.0
+Chhattisgarh,Tomato,33.33
+Delhi,Rice,40.0
+Delhi,Wheat,34.0
+Delhi,Atta (Wheat),36.0
+Delhi,Gram Dal,87.0
+Delhi,Tur/Arhar Dal,125.0
+Delhi,Urad Dal,122.0
+Delhi,Moong Dal,117.0
+Delhi,Masoor Dal,90.0
+Delhi,Sugar,45.0
+Delhi,Milk @,57.0
+Delhi,Groundnut Oil (Packed),203.0
+Delhi,Mustard Oil (Packed),192.0
+Delhi,Vanaspati (Packed),167.0
+Delhi,Soya Oil (Packed),155.0
+Delhi,Sunflower Oil (Packed),176.0
+Delhi,Palm Oil (Packed),144.0
+Delhi,Gur,60.0
+Delhi,Tea Loose,260.0
+Delhi,Salt Pack (Iodised),27.0
+Delhi,Potato,27.0
+Delhi,Onion,33.0
+Delhi,Tomato,57.0
+DNH and DD,Rice,50.33
+DNH and DD,Wheat,38.0
+DNH and DD,Atta (Wheat),43.33
+DNH and DD,Gram Dal,86.67
+DNH and DD,Tur/Arhar Dal,125.33
+DNH and DD,Urad Dal,126.33
+DNH and DD,Moong Dal,122.0
+DNH and DD,Masoor Dal,92.67
+DNH and DD,Sugar,45.0
+DNH and DD,Milk @,66.67
+DNH and DD,Groundnut Oil (Packed),185.67
+DNH and DD,Mustard Oil (Packed),200.67
+DNH and DD,Vanaspati (Packed),174.33
+DNH and DD,Soya Oil (Packed),168.67
+DNH and DD,Sunflower Oil (Packed),179.0
+DNH and DD,Palm Oil (Packed),129.33
+DNH and DD,Gur,62.0
+DNH and DD,Tea Loose,282.33
+DNH and DD,Salt Pack (Iodised),30.0
+DNH and DD,Potato,25.0
+DNH and DD,Onion,30.33
+DNH and DD,Tomato,40.0
+Goa,Rice,55.5
+Goa,Wheat,48.0
+Goa,Atta (Wheat),49.5
+Goa,Gram Dal,99.0
+Goa,Tur/Arhar Dal,127.5
+Goa,Urad Dal,135.0
+Goa,Moong Dal,125.0
+Goa,Masoor Dal,99.0
+Goa,Sugar,45.0
+Goa,Milk @,60.0
+Goa,Groundnut Oil (Packed),230.5
+Goa,Mustard Oil (Packed),189.5
+Goa,Vanaspati (Packed),203.5
+Goa,Soya Oil (Packed),170.5
+Goa,Sunflower Oil (Packed),167.5
+Goa,Palm Oil (Packed),124.5
+Goa,Gur,58.5
+Goa,Tea Loose,331.0
+Goa,Salt Pack (Iodised),27.5
+Goa,Potato,36.0
+Goa,Onion,35.0
+Goa,Tomato,37.0
+Gujarat,Rice,34.64
+Gujarat,Wheat,33.0
+Gujarat,Atta (Wheat),34.64
+Gujarat,Gram Dal,91.55
+Gujarat,Tur/Arhar Dal,117.09
+Gujarat,Urad Dal,116.27
+Gujarat,Moong Dal,103.64
+Gujarat,Masoor Dal,89.45
+Gujarat,Sugar,43.18
+Gujarat,Milk @,65.09
+Gujarat,Groundnut Oil (Packed),167.91
+Gujarat,Mustard Oil (Packed),161.64
+Gujarat,Vanaspati (Packed),138.73
+Gujarat,Soya Oil (Packed),151.27
+Gujarat,Sunflower Oil (Packed),159.64
+Gujarat,Palm Oil (Packed),141.18
+Gujarat,Gur,54.09
+Gujarat,Tea Loose,205.91
+Gujarat,Salt Pack (Iodised),18.64
+Gujarat,Potato,28.73
+Gujarat,Onion,28.0
+Gujarat,Tomato,30.91
+Haryana,Rice,38.25
+Haryana,Wheat,28.75
+Haryana,Atta (Wheat),34.5
+Haryana,Gram Dal,83.5
+Haryana,Tur/Arhar Dal,138.75
+Haryana,Urad Dal,114.0
+Haryana,Moong Dal,112.0
+Haryana,Masoor Dal,84.5
+Haryana,Sugar,44.25
+Haryana,Milk @,62.5
+Haryana,Groundnut Oil (Packed),209.75
+Haryana,Mustard Oil (Packed),164.75
+Haryana,Vanaspati (Packed),148.75
+Haryana,Soya Oil (Packed),133.25
+Haryana,Sunflower Oil (Packed),160.5
+Haryana,Palm Oil (Packed),113.0
+Haryana,Gur,52.0
+Haryana,Tea Loose,235.25
+Haryana,Salt Pack (Iodised),25.75
+Haryana,Potato,19.0
+Haryana,Onion,25.33
+Haryana,Tomato,39.67
+Himachal Pradesh,Rice,38.58
+Himachal Pradesh,Wheat,30.0
+Himachal Pradesh,Atta (Wheat),34.08
+Himachal Pradesh,Gram Dal,82.0
+Himachal Pradesh,Tur/Arhar Dal,122.25
+Himachal Pradesh,Urad Dal,121.25
+Himachal Pradesh,Moong Dal,111.92
+Himachal Pradesh,Masoor Dal,86.17
+Himachal Pradesh,Sugar,48.0
+Himachal Pradesh,Milk @,54.5
+Himachal Pradesh,Groundnut Oil (Packed),214.25
+Himachal Pradesh,Mustard Oil (Packed),189.25
+Himachal Pradesh,Vanaspati (Packed),170.42
+Himachal Pradesh,Soya Oil (Packed),147.27
+Himachal Pradesh,Sunflower Oil (Packed),163.67
+Himachal Pradesh,Palm Oil (Packed),108.0
+Himachal Pradesh,Gur,50.75
+Himachal Pradesh,Tea Loose,269.58
+Himachal Pradesh,Salt Pack (Iodised),29.17
+Himachal Pradesh,Potato,26.67
+Himachal Pradesh,Onion,32.33
+Himachal Pradesh,Tomato,47.75
+Jammu and Kashmir,Rice,45.71
+Jammu and Kashmir,Wheat,35.5
+Jammu and Kashmir,Atta (Wheat),40.86
+Jammu and Kashmir,Gram Dal,93.71
+Jammu and Kashmir,Tur/Arhar Dal,150.0
+Jammu and Kashmir,Urad Dal,121.86
+Jammu and Kashmir,Moong Dal,116.43
+Jammu and Kashmir,Masoor Dal,100.43
+Jammu and Kashmir,Sugar,49.86
+Jammu and Kashmir,Milk @,54.71
+Jammu and Kashmir,Mustard Oil (Packed),197.29
+Jammu and Kashmir,Vanaspati (Packed),172.57
+Jammu and Kashmir,Soya Oil (Packed),161.17
+Jammu and Kashmir,Sunflower Oil (Packed),182.0
+Jammu and Kashmir,Palm Oil (Packed),125.0
+Jammu and Kashmir,Gur,53.0
+Jammu and Kashmir,Tea Loose,324.29
+Jammu and Kashmir,Salt Pack (Iodised),29.29
+Jammu and Kashmir,Potato,29.0
+Jammu and Kashmir,Onion,35.0
+Jammu and Kashmir,Tomato,55.14
+Jharkhand,Rice,39.61
+Jharkhand,Wheat,32.0
+Jharkhand,Atta (Wheat),37.06
+Jharkhand,Gram Dal,85.53
+Jharkhand,Tur/Arhar Dal,116.17
+Jharkhand,Urad Dal,113.89
+Jharkhand,Moong Dal,110.22
+Jharkhand,Masoor Dal,84.61
+Jharkhand,Sugar,47.22
+Jharkhand,Milk @,59.59
+Jharkhand,Groundnut Oil (Packed),196.79
+Jharkhand,Mustard Oil (Packed),179.61
+Jharkhand,Vanaspati (Packed),160.61
+Jharkhand,Soya Oil (Packed),156.83
+Jharkhand,Sunflower Oil (Packed),170.69
+Jharkhand,Palm Oil (Packed),132.56
+Jharkhand,Gur,52.22
+Jharkhand,Tea Loose,256.28
+Jharkhand,Salt Pack (Iodised),25.5
+Jharkhand,Potato,21.28
+Jharkhand,Onion,24.89
+Jharkhand,Tomato,47.88
+Karnataka,Rice,47.59
+Karnataka,Wheat,41.34
+Karnataka,Atta (Wheat),44.19
+Karnataka,Gram Dal,84.47
+Karnataka,Tur/Arhar Dal,110.16
+Karnataka,Urad Dal,118.25
+Karnataka,Moong Dal,110.0
+Karnataka,Masoor Dal,89.41
+Karnataka,Sugar,44.13
+Karnataka,Milk @,54.47
+Karnataka,Groundnut Oil (Packed),188.0
+Karnataka,Mustard Oil (Packed),181.16
+Karnataka,Vanaspati (Packed),142.66
+Karnataka,Soya Oil (Packed),148.59
+Karnataka,Sunflower Oil (Packed),155.75
+Karnataka,Palm Oil (Packed),129.41
+Karnataka,Gur,51.47
+Karnataka,Tea Loose,241.16
+Karnataka,Salt Pack (Iodised),17.91
+Karnataka,Potato,31.16
+Karnataka,Onion,25.75
+Karnataka,Tomato,24.94
+Kerala,Rice,49.54
+Kerala,Wheat,46.25
+Kerala,Atta (Wheat),48.69
+Kerala,Gram Dal,103.0
+Kerala,Tur/Arhar Dal,128.85
+Kerala,Urad Dal,125.58
+Kerala,Moong Dal,128.69
+Kerala,Masoor Dal,98.38
+Kerala,Sugar,45.75
+Kerala,Milk @,54.58
+Kerala,Groundnut Oil (Packed),231.8
+Kerala,Mustard Oil (Packed),209.7
+Kerala,Vanaspati (Packed),192.0
+Kerala,Soya Oil (Packed),144.0
+Kerala,Sunflower Oil (Packed),168.0
+Kerala,Palm Oil (Packed),137.83
+Kerala,Gur,61.5
+Kerala,Tea Loose,231.25
+Kerala,Salt Pack (Iodised),15.0
+Kerala,Potato,37.25
+Kerala,Onion,28.42
+Kerala,Tomato,33.5
+Ladakh,Rice,51.5
+Ladakh,Atta (Wheat),45.0
+Ladakh,Gram Dal,130.0
+Ladakh,Tur/Arhar Dal,181.5
+Ladakh,Urad Dal,140.0
+Ladakh,Moong Dal,124.0
+Ladakh,Masoor Dal,120.0
+Ladakh,Sugar,55.0
+Ladakh,Milk @,60.0
+Ladakh,Mustard Oil (Packed),220.0
+Ladakh,Vanaspati (Packed),209.0
+Ladakh,Soya Oil (Packed),198.0
+Ladakh,Gur,70.0
+Ladakh,Tea Loose,540.0
+Ladakh,Salt Pack (Iodised),30.0
+Ladakh,Potato,44.0
+Ladakh,Onion,51.5
+Ladakh,Tomato,66.5
+Madhya Pradesh,Rice,38.81
+Madhya Pradesh,Wheat,28.65
+Madhya Pradesh,Atta (Wheat),34.04
+Madhya Pradesh,Gram Dal,80.06
+Madhya Pradesh,Tur/Arhar Dal,112.04
+Madhya Pradesh,Urad Dal,109.75
+Madhya Pradesh,Moong Dal,105.04
+Madhya Pradesh,Masoor Dal,84.92
+Madhya Pradesh,Sugar,44.42
+Madhya Pradesh,Milk @,56.5
+Madhya Pradesh,Groundnut Oil (Packed),186.92
+Madhya Pradesh,Mustard Oil (Packed),169.83
+Madhya Pradesh,Vanaspati (Packed),149.73
+Madhya Pradesh,Soya Oil (Packed),138.52
+Madhya Pradesh,Sunflower Oil (Packed),158.6
+Madhya Pradesh,Palm Oil (Packed),121.38
+Madhya Pradesh,Gur,50.19
+Madhya Pradesh,Tea Loose,234.54
+Madhya Pradesh,Salt Pack (Iodised),15.81
+Madhya Pradesh,Potato,22.71
+Madhya Pradesh,Onion,20.54
+Madhya Pradesh,Tomato,40.75
+Maharashtra,Rice,44.68
+Maharashtra,Wheat,37.26
+Maharashtra,Atta (Wheat),43.74
+Maharashtra,Gram Dal,86.05
+Maharashtra,Tur/Arhar Dal,119.32
+Maharashtra,Urad Dal,119.26
+Maharashtra,Moong Dal,114.95
+Maharashtra,Masoor Dal,92.11
+Maharashtra,Sugar,44.11
+Maharashtra,Milk @,60.21
+Maharashtra,Groundnut Oil (Packed),188.11
+Maharashtra,Mustard Oil (Packed),189.72
+Maharashtra,Vanaspati (Packed),161.47
+Maharashtra,Soya Oil (Packed),145.95
+Maharashtra,Sunflower Oil (Packed),161.95
+Maharashtra,Palm Oil (Packed),137.25
+Maharashtra,Gur,56.95
+Maharashtra,Tea Loose,316.32
+Maharashtra,Salt Pack (Iodised),24.89
+Maharashtra,Potato,30.26
+Maharashtra,Onion,27.05
+Maharashtra,Tomato,39.21
+Manipur,Rice,56.0
+Manipur,Wheat,48.0
+Manipur,Atta (Wheat),47.5
+Manipur,Gram Dal,98.0
+Manipur,Tur/Arhar Dal,156.5
+Manipur,Urad Dal,149.0
+Manipur,Moong Dal,130.0
+Manipur,Masoor Dal,98.5
+Manipur,Sugar,58.0
+Manipur,Milk @,75.0
+Manipur,Groundnut Oil (Packed),148.5
+Manipur,Mustard Oil (Packed),187.5
+Manipur,Vanaspati (Packed),219.0
+Manipur,Soya Oil (Packed),181.0
+Manipur,Sunflower Oil (Packed),198.0
+Manipur,Palm Oil (Packed),172.0
+Manipur,Gur,106.5
+Manipur,Tea Loose,240.0
+Manipur,Salt Pack (Iodised),27.5
+Manipur,Potato,30.5
+Manipur,Onion,40.0
+Manipur,Tomato,75.5
+Meghalaya,Rice,36.44
+Meghalaya,Wheat,41.57
+Meghalaya,Atta (Wheat),40.33
+Meghalaya,Gram Dal,96.83
+Meghalaya,Tur/Arhar Dal,144.4
+Meghalaya,Urad Dal,127.0
+Meghalaya,Moong Dal,119.11
+Meghalaya,Masoor Dal,86.78
+Meghalaya,Sugar,49.56
+Meghalaya,Milk @,73.56
+Meghalaya,Mustard Oil (Packed),163.22
+Meghalaya,Vanaspati (Packed),167.5
+Meghalaya,Soya Oil (Packed),156.89
+Meghalaya,Sunflower Oil (Packed),189.0
+Meghalaya,Palm Oil (Packed),150.0
+Meghalaya,Gur,76.0
+Meghalaya,Tea Loose,335.56
+Meghalaya,Salt Pack (Iodised),19.0
+Meghalaya,Potato,25.22
+Meghalaya,Onion,38.22
+Meghalaya,Tomato,43.0
+Mizoram,Rice,50.0
+Mizoram,Wheat,41.13
+Mizoram,Atta (Wheat),47.91
+Mizoram,Gram Dal,100.5
+Mizoram,Tur/Arhar Dal,151.5
+Mizoram,Urad Dal,140.63
+Mizoram,Moong Dal,131.7
+Mizoram,Masoor Dal,98.36
+Mizoram,Sugar,52.18
+Mizoram,Milk @,80.36
+Mizoram,Groundnut Oil (Packed),254.0
+Mizoram,Mustard Oil (Packed),221.09
+Mizoram,Vanaspati (Packed),205.4
+Mizoram,Soya Oil (Packed),147.0
+Mizoram,Sunflower Oil (Packed),197.75
+Mizoram,Palm Oil (Packed),131.0
+Mizoram,Gur,109.45
+Mizoram,Tea Loose,465.73
+Mizoram,Salt Pack (Iodised),30.0
+Mizoram,Potato,39.45
+Mizoram,Onion,51.73
+Mizoram,Tomato,94.82
+Nagaland,Rice,43.31
+Nagaland,Wheat,44.0
+Nagaland,Atta (Wheat),52.81
+Nagaland,Gram Dal,99.75
+Nagaland,Tur/Arhar Dal,152.8
+Nagaland,Urad Dal,129.0
+Nagaland,Moong Dal,122.44
+Nagaland,Masoor Dal,93.56
+Nagaland,Sugar,50.94
+Nagaland,Milk @,73.4
+Nagaland,Groundnut Oil (Packed),209.0
+Nagaland,Mustard Oil (Packed),161.0
+Nagaland,Vanaspati (Packed),199.0
+Nagaland,Soya Oil (Packed),167.44
+Nagaland,Sunflower Oil (Packed),209.0
+Nagaland,Palm Oil (Packed),150.5
+Nagaland,Gur,78.64
+Nagaland,Tea Loose,333.14
+Nagaland,Salt Pack (Iodised),18.25
+Nagaland,Potato,27.94
+Nagaland,Onion,45.5
+Nagaland,Tomato,51.13
+Odisha,Rice,39.79
+Odisha,Wheat,37.47
+Odisha,Atta (Wheat),43.39
+Odisha,Gram Dal,81.87
+Odisha,Tur/Arhar Dal,107.04
+Odisha,Urad Dal,105.43
+Odisha,Moong Dal,102.04
+Odisha,Masoor Dal,80.48
+Odisha,Sugar,46.38
+Odisha,Milk @,54.17
+Odisha,Groundnut Oil (Packed),167.0
+Odisha,Mustard Oil (Packed),188.83
+Odisha,Vanaspati (Packed),152.67
+Odisha,Soya Oil (Packed),130.25
+Odisha,Sunflower Oil (Packed),161.46
+Odisha,Palm Oil (Packed),129.09
+Odisha,Gur,52.96
+Odisha,Tea Loose,288.59
+Odisha,Salt Pack (Iodised),26.33
+Odisha,Potato,20.58
+Odisha,Onion,26.0
+Odisha,Tomato,41.21
+Punjab,Rice,40.33
+Punjab,Wheat,28.0
+Punjab,Atta (Wheat),33.07
+Punjab,Gram Dal,82.87
+Punjab,Tur/Arhar Dal,125.2
+Punjab,Urad Dal,125.07
+Punjab,Moong Dal,113.13
+Punjab,Masoor Dal,92.13
+Punjab,Sugar,44.8
+Punjab,Milk @,60.73
+Punjab,Groundnut Oil (Packed),218.92
+Punjab,Mustard Oil (Packed),178.73
+Punjab,Vanaspati (Packed),166.8
+Punjab,Soya Oil (Packed),147.13
+Punjab,Sunflower Oil (Packed),172.77
+Punjab,Palm Oil (Packed),132.92
+Punjab,Gur,54.6
+Punjab,Tea Loose,273.2
+Punjab,Salt Pack (Iodised),28.2
+Punjab,Potato,18.8
+Punjab,Onion,26.87
+Punjab,Tomato,46.07
+Rajasthan,Rice,42.62
+Rajasthan,Wheat,29.66
+Rajasthan,Atta (Wheat),33.38
+Rajasthan,Gram Dal,84.9
+Rajasthan,Tur/Arhar Dal,126.04
+Rajasthan,Urad Dal,113.68
+Rajasthan,Moong Dal,102.19
+Rajasthan,Masoor Dal,86.45
+Rajasthan,Sugar,43.89
+Rajasthan,Milk @,53.0
+Rajasthan,Groundnut Oil (Packed),191.04
+Rajasthan,Mustard Oil (Packed),162.24
+Rajasthan,Vanaspati (Packed),139.89
+Rajasthan,Soya Oil (Packed),142.31
+Rajasthan,Sunflower Oil (Packed),149.52
+Rajasthan,Palm Oil (Packed),136.0
+Rajasthan,Gur,45.11
+Rajasthan,Tea Loose,285.24
+Rajasthan,Salt Pack (Iodised),19.54
+Rajasthan,Potato,25.82
+Rajasthan,Onion,27.62
+Rajasthan,Tomato,33.07
+Sikkim,Rice,46.5
+Sikkim,Wheat,38.5
+Sikkim,Atta (Wheat),40.83
+Sikkim,Gram Dal,96.67
+Sikkim,Moong Dal,123.33
+Sikkim,Masoor Dal,90.83
+Sikkim,Sugar,52.5
+Sikkim,Milk @,66.83
+Sikkim,Mustard Oil (Packed),199.5
+Sikkim,Vanaspati (Packed),160.0
+Sikkim,Soya Oil (Packed),162.83
+Sikkim,Sunflower Oil (Packed),185.5
+Sikkim,Gur,60.0
+Sikkim,Tea Loose,341.67
+Sikkim,Salt Pack (Iodised),21.17
+Sikkim,Potato,28.33
+Sikkim,Onion,37.5
+Sikkim,Tomato,60.0
+Tamil Nadu,Rice,55.0
+Tamil Nadu,Wheat,46.03
+Tamil Nadu,Atta (Wheat),55.61
+Tamil Nadu,Gram Dal,87.1
+Tamil Nadu,Tur/Arhar Dal,115.74
+Tamil Nadu,Urad Dal,114.26
+Tamil Nadu,Moong Dal,113.29
+Tamil Nadu,Masoor Dal,89.32
+Tamil Nadu,Sugar,45.74
+Tamil Nadu,Milk @,44.48
+Tamil Nadu,Groundnut Oil (Packed),199.16
+Tamil Nadu,Mustard Oil (Packed),197.84
+Tamil Nadu,Vanaspati (Packed),171.67
+Tamil Nadu,Sunflower Oil (Packed),160.9
+Tamil Nadu,Palm Oil (Packed),130.4
+Tamil Nadu,Gur,58.87
+Tamil Nadu,Tea Loose,287.7
+Tamil Nadu,Salt Pack (Iodised),25.83
+Tamil Nadu,Potato,39.16
+Tamil Nadu,Onion,32.81
+Tamil Nadu,Tomato,31.45
+Telangana,Rice,54.2
+Telangana,Wheat,39.9
+Telangana,Atta (Wheat),43.1
+Telangana,Gram Dal,85.1
+Telangana,Tur/Arhar Dal,119.6
+Telangana,Urad Dal,119.7
+Telangana,Moong Dal,112.7
+Telangana,Masoor Dal,87.6
+Telangana,Sugar,40.4
+Telangana,Milk @,58.2
+Telangana,Groundnut Oil (Packed),168.8
+Telangana,Mustard Oil (Packed),171.4
+Telangana,Vanaspati (Packed),142.7
+Telangana,Soya Oil (Packed),142.5
+Telangana,Sunflower Oil (Packed),158.0
+Telangana,Palm Oil (Packed),130.2
+Telangana,Gur,52.8
+Telangana,Tea Loose,286.8
+Telangana,Salt Pack (Iodised),19.5
+Telangana,Potato,31.7
+Telangana,Onion,23.4
+Telangana,Tomato,29.8
+Tripura,Rice,39.5
+Tripura,Atta (Wheat),42.5
+Tripura,Gram Dal,86.0
+Tripura,Tur/Arhar Dal,115.5
+Tripura,Urad Dal,120.0
+Tripura,Moong Dal,107.75
+Tripura,Masoor Dal,102.5
+Tripura,Sugar,50.5
+Tripura,Milk @,75.75
+Tripura,Mustard Oil (Packed),191.0
+Tripura,Vanaspati (Packed),172.0
+Tripura,Soya Oil (Packed),160.0
+Tripura,Sunflower Oil (Packed),194.0
+Tripura,Palm Oil (Packed),148.75
+Tripura,Gur,70.5
+Tripura,Tea Loose,235.5
+Tripura,Salt Pack (Iodised),10.75
+Tripura,Potato,22.5
+Tripura,Onion,30.25
+Tripura,Tomato,57.5
+Uttar Pradesh,Rice,38.76
+Uttar Pradesh,Wheat,27.67
+Uttar Pradesh,Atta (Wheat),33.11
+Uttar Pradesh,Gram Dal,82.53
+Uttar Pradesh,Tur/Arhar Dal,117.28
+Uttar Pradesh,Urad Dal,112.26
+Uttar Pradesh,Moong Dal,106.32
+Uttar Pradesh,Masoor Dal,84.84
+Uttar Pradesh,Sugar,44.32
+Uttar Pradesh,Milk @,57.86
+Uttar Pradesh,Groundnut Oil (Packed),189.89
+Uttar Pradesh,Mustard Oil (Packed),168.15
+Uttar Pradesh,Vanaspati (Packed),148.15
+Uttar Pradesh,Soya Oil (Packed),145.15
+Uttar Pradesh,Sunflower Oil (Packed),155.28
+Uttar Pradesh,Palm Oil (Packed),126.04
+Uttar Pradesh,Gur,51.08
+Uttar Pradesh,Tea Loose,238.53
+Uttar Pradesh,Salt Pack (Iodised),20.66
+Uttar Pradesh,Potato,20.85
+Uttar Pradesh,Onion,24.18
+Uttar Pradesh,Tomato,40.55
+Uttarakhand,Rice,39.0
+Uttarakhand,Wheat,30.5
+Uttarakhand,Atta (Wheat),36.25
+Uttarakhand,Gram Dal,93.0
+Uttarakhand,Tur/Arhar Dal,131.75
+Uttarakhand,Urad Dal,116.0
+Uttarakhand,Moong Dal,114.75
+Uttarakhand,Masoor Dal,92.75
+Uttarakhand,Sugar,44.5
+Uttarakhand,Milk @,61.25
+Uttarakhand,Groundnut Oil (Packed),201.5
+Uttarakhand,Mustard Oil (Packed),183.25
+Uttarakhand,Vanaspati (Packed),161.25
+Uttarakhand,Soya Oil (Packed),167.5
+Uttarakhand,Sunflower Oil (Packed),170.75
+Uttarakhand,Palm Oil (Packed),143.0
+Uttarakhand,Gur,55.25
+Uttarakhand,Tea Loose,263.0
+Uttarakhand,Salt Pack (Iodised),29.0
+Uttarakhand,Potato,20.25
+Uttarakhand,Onion,26.5
+Uttarakhand,Tomato,47.75
+West Bengal,Rice,46.18
+West Bengal,Wheat,30.89
+West Bengal,Atta (Wheat),40.0
+West Bengal,Gram Dal,88.09
+West Bengal,Tur/Arhar Dal,125.59
+West Bengal,Urad Dal,120.05
+West Bengal,Moong Dal,113.18
+West Bengal,Masoor Dal,98.73
+West Bengal,Sugar,47.5
+West Bengal,Milk @,59.09
+West Bengal,Groundnut Oil (Packed),200.71
+West Bengal,Mustard Oil (Packed),182.24
+West Bengal,Vanaspati (Packed),160.12
+West Bengal,Soya Oil (Packed),147.77
+West Bengal,Sunflower Oil (Packed),168.68
+West Bengal,Palm Oil (Packed),126.84
+West Bengal,Gur,56.59
+West Bengal,Tea Loose,278.5
+West Bengal,Salt Pack (Iodised),24.55
+West Bengal,Potato,19.68
+West Bengal,Onion,27.18
+West Bengal,Tomato,51.32
